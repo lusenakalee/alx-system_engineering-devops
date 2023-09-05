@@ -1,0 +1,2 @@
+#!/bin/bash
+grtvep -v "bin" /etc/passwd
